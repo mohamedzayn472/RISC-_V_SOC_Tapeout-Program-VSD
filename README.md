@@ -1,49 +1,71 @@
-# 🖥️ RISC-V Reference SoC Tapeout Program VSD
+# 🚀 RISC-V Reference SoC Tapeout Program – VSD  
 
 <div align="center">
 
+[![RISC-V](https://img.shields.io/badge/RISC--V-SoC%20Tapeout-blue?style=for-the-badge&logo=riscv)](https://riscv.org/)  
+[![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)](https://vsdiat.vlsisystemdesign.com/)  
+![Participants](https://img.shields.io/badge/Participants-3500+-success?style=for-the-badge)  
+![India](https://img.shields.io/badge/Made%20in-India-FF9933?style=for-the-badge&logo=india)  
 
-Welcome to my journey through the **SoC Tapeout Program VSD**!  
-This repository documents my **week-by-week progress** with tasks inside each week.
-
-> *“In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem.”*
-
----
-
-## 📅 Week 0 — Setup & Tools
-
-| Task | Description | Status |
-|-------|-------------|---------|
-| [**Task 0**](Week0/Task0/README.md) | 🛠️ Tools Installation — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
-
-### 🌟 Key Learnings from Week 0
-
-- Successfully installed and verified **open-source EDA tools**.  
-- Gained familiarity with **basic environment setup** for RTL design and synthesis.  
-- Prepared system for upcoming **RTL → GDSII flow experiments**.
+</div>
 
 ---
 
-## 🙏 Acknowledgments  
-
-I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for the opportunity to participate in the ongoing **RISC-V SoC Tapeout Program**.  
-
-I also acknowledge the support of **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and [**Efabless**](https://github.com/efabless) for making this initiative possible.
+> 🎯 *"Designing silicon from scratch – RTL ➝ GDSII using open-source tools.  
+Part of India’s largest collaborative RISC-V tapeout initiative, empowering **3500+ engineers** to build the future of semiconductors."*  
 
 ---
 
-## 📈 Weekly Progress Tracker
+## 📅 Week 0 — Setup & Tools  
 
-[![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0)  
-![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square)  
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)  
+| 📝 Task | 📖 Description | ✅ Status |
+|--------|----------------|-----------|
+| [**Task 0**](Week0/Task0/README.md) | 🔧 Installed **Iverilog**, **Yosys**, **GTKWave** | ✔️ Done |
+
+<details>
+<summary>✨ Key Learnings</summary>
+
+- Installed & verified essential **open-source EDA tools**.  
+- Built a working environment for **RTL design + synthesis**.  
+- System is ready for **RTL → GDSII experiments**.  
+
+</details>
 
 ---
 
-## 🔗 Useful Links
+## 🧭 Weekly Progress Tracker  
 
-- [VSD Official Website](https://vsdiat.vlsisystemdesign.com/)
-- [RISC-V International](https://riscv.org/)
-- [Efabless Platform](https://efabless.com/)
+| Week | Status |
+|------|---------|
+| ![Week0](https://img.shields.io/badge/Week%200-✅%20Tools%20Setup-success?style=for-the-badge) | Completed |
+| ![Week1](https://img.shields.io/badge/Week%201-🔜%20Coming%20Soon-lightgrey?style=for-the-badge) | Pending |
+| ![Week2](https://img.shields.io/badge/Week%202-📖%20Upcoming-lightgrey?style=for-the-badge) | Pending |
 
 ---
+
+## 🌟 Acknowledgments  
+
+🙏 Huge thanks to [**Kunal Ghosh**](https://github.com/kunalg123) and Team [**VLSI System Design (VSD)**](https://vsdiat.vlsisystemdesign.com/)  
+for enabling this **RISC-V SoC Tapeout Program**.  
+
+Special appreciation to:  
+- **RISC-V International** 🖥️  
+- **India Semiconductor Mission (ISM)** 🇮🇳  
+- **VLSI Society of India (VSI)** ⚡  
+- [**Efabless**](https://github.com/efabless) 🏭  
+
+---
+
+## 🔗 Useful Links  
+
+- 🌐 [VSD Official Website](https://vsdiat.vlsisystemdesign.com/)  
+- 🏛️ [RISC-V International](https://riscv.org/)  
+- 🧩 [Efabless Platform](https://efabless.com/)  
+
+---
+
+<div align="center">
+
+⭐ *Follow my journey as I go from RTL → GDSII → Silicon!* ⭐  
+
+</div>
